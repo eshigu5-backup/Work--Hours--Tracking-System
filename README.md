@@ -3,6 +3,9 @@
 A lightweight and practical attendance tracking system built with **Python (Streamlit)** and **Supabase (PostgreSQL)**.  
 Designed to provide a simple, secure, and user-friendly way to manage daily check-ins, check-outs, vacation days, and work hour tracking.
 
+🌍 **Language:** The application interface is fully in **Hebrew**.
+
+🚀 **Live Demo:**  https://attendance-app-otbl.onrender.com
 ---
 
 ## ✨ Features
