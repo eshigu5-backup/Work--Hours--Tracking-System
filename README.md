@@ -81,19 +81,21 @@ attendance-app/
 git clone <your-repo-url>
 cd attendance-app
 
-###2. Install dependencies
+2. Install dependencies
   pip install -r requirements.txt
-###3. Configure environment variables
-Create a .env file based on .env.example:
+
+3. Configure environment variables
+  Create a .env file based on .env.example:
 
 DATABASE_URL=your_database_connection_string
 AUTH_SECRET=your_secret_key
 AUTH_USERNAME=your_username
 AUTH_PASSWORD_HASH=your_password_hash
-###4. Run the app
-streamlit run app.py
 
-#🚀 Deployment
+4. Run the app
+  streamlit run app.py
+
+🚀 Deployment
 
 The app is designed to be easily deployed on platforms like Render.
 Make sure to configure environment variables in your deployment settings.
@@ -105,7 +107,7 @@ JWT-based authentication
 UI/UX enhancements
 Mobile responsiveness
 
-#🤍 About
+🤍 About
 
 This project was built as a practical full-stack application focusing on:
 
